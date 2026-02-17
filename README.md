@@ -3,7 +3,7 @@
 
 A sleek, responsive landing page for a culinary platform. This project was developed to master the fundamentals of modern web layout, focusing on visual hierarchy and mobile-first design.
 
-## 🚀 [Live Demo](https://deepu8405.github.io/apnakitchen.github.io/)
+## 🚀 [Live Demo](https://deepu8405.github.io/Apna-kitchen/)
 
 ---
 
